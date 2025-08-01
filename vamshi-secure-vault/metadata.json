@@ -1,6 +1,0 @@
-
-{
-  "name": "Vamshi Secure Vault",
-  "description": "A client-side password manager with advanced features like a password generator, import/export functionality, and AI-powered security tips. All data is stored locally in your browser.",
-  "requestFramePermissions": []
-}
